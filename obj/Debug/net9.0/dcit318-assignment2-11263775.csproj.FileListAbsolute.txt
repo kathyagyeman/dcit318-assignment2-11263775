@@ -1,0 +1,15 @@
+C:\Users\kathyfrema\Desktop\dcit318-assignment2-11263775\dcit318-assignment2-11263775\bin\Debug\net9.0\dcit318-assignment2-11263775.exe
+C:\Users\kathyfrema\Desktop\dcit318-assignment2-11263775\dcit318-assignment2-11263775\bin\Debug\net9.0\dcit318-assignment2-11263775.deps.json
+C:\Users\kathyfrema\Desktop\dcit318-assignment2-11263775\dcit318-assignment2-11263775\bin\Debug\net9.0\dcit318-assignment2-11263775.runtimeconfig.json
+C:\Users\kathyfrema\Desktop\dcit318-assignment2-11263775\dcit318-assignment2-11263775\bin\Debug\net9.0\dcit318-assignment2-11263775.dll
+C:\Users\kathyfrema\Desktop\dcit318-assignment2-11263775\dcit318-assignment2-11263775\bin\Debug\net9.0\dcit318-assignment2-11263775.pdb
+C:\Users\kathyfrema\Desktop\dcit318-assignment2-11263775\dcit318-assignment2-11263775\obj\Debug\net9.0\dcit318-assignment2-11263775.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kathyfrema\Desktop\dcit318-assignment2-11263775\dcit318-assignment2-11263775\obj\Debug\net9.0\dcit318-assignment2-11263775.AssemblyInfoInputs.cache
+C:\Users\kathyfrema\Desktop\dcit318-assignment2-11263775\dcit318-assignment2-11263775\obj\Debug\net9.0\dcit318-assignment2-11263775.AssemblyInfo.cs
+C:\Users\kathyfrema\Desktop\dcit318-assignment2-11263775\dcit318-assignment2-11263775\obj\Debug\net9.0\dcit318-assignment2-11263775.csproj.CoreCompileInputs.cache
+C:\Users\kathyfrema\Desktop\dcit318-assignment2-11263775\dcit318-assignment2-11263775\obj\Debug\net9.0\dcit318-assignment2-11263775.sourcelink.json
+C:\Users\kathyfrema\Desktop\dcit318-assignment2-11263775\dcit318-assignment2-11263775\obj\Debug\net9.0\dcit318-assignment2-11263775.dll
+C:\Users\kathyfrema\Desktop\dcit318-assignment2-11263775\dcit318-assignment2-11263775\obj\Debug\net9.0\refint\dcit318-assignment2-11263775.dll
+C:\Users\kathyfrema\Desktop\dcit318-assignment2-11263775\dcit318-assignment2-11263775\obj\Debug\net9.0\dcit318-assignment2-11263775.pdb
+C:\Users\kathyfrema\Desktop\dcit318-assignment2-11263775\dcit318-assignment2-11263775\obj\Debug\net9.0\dcit318-assignment2-11263775.genruntimeconfig.cache
+C:\Users\kathyfrema\Desktop\dcit318-assignment2-11263775\dcit318-assignment2-11263775\obj\Debug\net9.0\ref\dcit318-assignment2-11263775.dll
